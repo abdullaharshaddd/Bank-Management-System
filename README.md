@@ -10,4 +10,5 @@ This project provides the following features :
 > Pin Confirmation( 3 attempts)
 > Account Blocking / Account Deletion
 > Transaction History 
-> GUI(Console Based)****
+> GUI(Console Based)
+
